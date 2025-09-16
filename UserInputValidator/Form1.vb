@@ -12,9 +12,6 @@
             End If
         Catch ex As FormatException
             lblResult.Text = "Age cannot be niggative."
-
-
-
         End Try
 
     End Sub
